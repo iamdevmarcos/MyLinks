@@ -3,7 +3,7 @@ import { Gi3DGlasses } from 'react-icons/gi'
 
 import { render, screen } from '@testing-library/react'
 
-import SocialLink from './SocialLink'
+import SocialLink from '../SocialLink'
 
 describe('<SocialLink />', () => {
   it('should render correctly', () => {

@@ -2,7 +2,7 @@ import React from 'react'
 
 import { fireEvent, render, screen } from '@testing-library/react'
 
-import SwitchTheme from './SwitchTheme'
+import SwitchTheme from '../SwitchTheme'
 
 describe('<SwitchTheme />', () => {
   it('should render correctly', () => {
