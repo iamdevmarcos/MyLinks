@@ -6,7 +6,7 @@ import { SocialLinkProps } from 'components/SocialLink'
 
 export const socialLinks: SocialLinkProps[] = [
   { href: 'https://github.com/iamdevmarcos', icon: AiFillGithub },
-  { href: 'https://www.linkedin.com/in/iamdevmarcos/', icon: FiInstagram },
-  { href: 'https://www.instagram.com/marcosdev.me/', icon: AiFillLinkedin },
+  { href: 'https://www.linkedin.com/in/iamdevmarcos/', icon: AiFillLinkedin },
+  { href: 'https://www.instagram.com/marcosdev.me/', icon: FiInstagram },
   { href: 'mailto:marcosdev.me@gmail.com', icon: MdEmail }
 ]
