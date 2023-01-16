@@ -31,7 +31,6 @@ const Link = ({ title, href }: LinkProps) => {
       backdropFilter="blur(0.4rem)"
       color="white"
       _hover={{
-        cursor: 'default',
         textDecor: 'none',
         border: isDarkTheme ? '1.5px solid #FFFFFF' : '1.5px solid #000',
         background: isDarkTheme
