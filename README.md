@@ -1,5 +1,7 @@
 # My Links 👨🏻‍💻
 
+A simple website to organize my links, fully inspired in Linktree
+
 ## Getting Started
 
 Install all dependencies:
